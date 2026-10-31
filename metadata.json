@@ -1,0 +1,6 @@
+{
+  "name": "BELOW — 하루의 끝, 고요한 바닷속",
+  "description": "잠들기 전 마음에 남은 생각을 바다에 내려놓고, 서서히 어두워지는 고요한 심해에서 휴식을 취하는 인터랙티브 웰니스 웹앱.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
