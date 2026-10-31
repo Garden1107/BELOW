@@ -33,7 +33,7 @@ export default async function handler(
 2. resolutionAdvice: 부담 없이 실천할 수 있는 현실적인 해결 방안이나 시각의 전환 (2~3문장)`;
 
     const response = await ai.models.generateContent({
-      model: 'gemini-2.5-flash',
+      model: 'gemini-3.8-flash',
       contents: prompt,
       config: {
         systemInstruction:
